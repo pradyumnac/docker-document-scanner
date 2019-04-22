@@ -6,3 +6,4 @@ uploadfile
 *__pycache__*
 *.idea*
 *.zip
+*samples*
