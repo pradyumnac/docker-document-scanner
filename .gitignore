@@ -1,0 +1,8 @@
+Shell.bat
+temp
+images
+venv
+uploadfile
+*__pycache__*
+*.idea*
+*.zip
